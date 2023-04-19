@@ -1,2 +1,0 @@
-# minishop
-jQuerry, bootstrap
